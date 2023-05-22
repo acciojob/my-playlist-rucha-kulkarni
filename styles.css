@@ -6,15 +6,17 @@ body{
 	background-color:white;	
 	border:1px solid;
 }
-.player-two{
+.player_two{
 	background-color:white;	
+	padding:5px;
 	border:1px solid;
 	margin-left:auto;
 	margin-right:auto;
 	width:max-content;
 }
 ul{
-	list-style-type: none
+	list-style-type: none;
+	padding:5px;
 }
 a{
 	text-decoration-line:none;
