@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+body{
+	background-color:#cccccc;
+}
+.player_one{
+	background-color:white;	
+	padding:5px;
+	border:1px solid;
+	margin-left:auto;
+	margin-right:auto;
+}
+a{
+	text-decoration:none;
+}
